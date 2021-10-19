@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhrizkia
+- 👋 Hi, I’m Rizki
 - 👀 I’m interested in flutter
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
